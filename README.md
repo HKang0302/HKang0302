@@ -3,9 +3,8 @@ Hi, I'm Jennifer(Heejin) Kang
 
 I graduated from University of California, Irvine in 2020 with the Bachelor's degree in Computer Science.
 
-I'm interested in AI/ML.
+I'm interested in AI/ML and Front End.
 
-Since August 2020, I have been working at an IoT development company, Sunny Wave Tech, in South Korea.
 
 - 👋 Hi, I’m @HKang0302
 - 👀 I’m interested in ...
