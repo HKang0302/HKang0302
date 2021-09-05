@@ -1,4 +1,4 @@
-# print("Hello World")
+# HELLO WORLD
 Hi! Thanks for visiting my Github.
 I'm Heejin Kang, or simply Jennifer :)
 
