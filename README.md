@@ -13,12 +13,6 @@
 - Building iOS/Android apps (Native & Cross-platform using React Native / Flutter)
 - Exploring and learning new things constantly
 
-## 🧠 저의 관심사는 다음과 같아요
-- 최신 AI 동향 파악 및 기술 탐구
-- 새로운 AI 기반 서비스 기획 및 개발
-- iOS/Android 앱 개발 (네이티브, RN/Flutter 기반 크로스 플랫폼)
-- 새로운 분야에 대한 끊임없는 호기심과 배움
-
 --- 
 
 ## 🔧 Tech Stack
